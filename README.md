@@ -1,3 +1,6 @@
+# This repository was created while following this awesome video by Lewis.
+## All rights and credit goes to him.
+
 # Reddit Video Maker Bot 🎥
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
